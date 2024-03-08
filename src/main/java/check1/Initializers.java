@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 public class Initializers {
+
     private final static List<String> names = new ArrayList<>();
 
     public static void main(String[] args) {

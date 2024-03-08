@@ -1,0 +1,33 @@
+                Suallar
+1)))   Ternary operatorunu birdaha basa salmaq 
+2)))   loop da cole cixmadan yeni 3 cu deyerden istifade etmeden max tapilma mumkunluyu ? ?????
+
+
+5)))
+        String[] names  = {"Ferid", " orxan ", "Namiq"};
+
+        Arrays.sort(names);
+        System.out.println(Arrays.toString(names));
+orxan sozu kicikle basladiqina gore sonda gelmeli olmasina baxmayaraq qarwisindaki bosluqa gore birinci gelir
+
+
+7))
+int[][] multiDimenArray = {{2, 4, 5}, {7, 9}, {7, 0, 1}};
+System.out.println(Arrays.toString(multiDimenArray));
+
+niye gore 3 sutun vermir axi toStringle cevirmisem men
+
+
+8))
+muellime vereceyim o sual
+
+18 yasdan cox olmasi void ve return typi int olan ile arasindaki ferq nedir 
+
+
+
+
+
+
+
+
+
